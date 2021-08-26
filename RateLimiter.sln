@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimiter.Lib", "RateLimi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimiterLib.Test", "RateLimiter.Test\RateLimiterLib.Test.csproj", "{4352A8AA-A9FE-4DFF-BA8C-B6BC4F2A4918}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimiter.Console", "RateLimiter.Console.csproj", "{D20EAC26-53E8-482C-B0CB-7054587E07A0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{4352A8AA-A9FE-4DFF-BA8C-B6BC4F2A4918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4352A8AA-A9FE-4DFF-BA8C-B6BC4F2A4918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4352A8AA-A9FE-4DFF-BA8C-B6BC4F2A4918}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D20EAC26-53E8-482C-B0CB-7054587E07A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D20EAC26-53E8-482C-B0CB-7054587E07A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D20EAC26-53E8-482C-B0CB-7054587E07A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D20EAC26-53E8-482C-B0CB-7054587E07A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
